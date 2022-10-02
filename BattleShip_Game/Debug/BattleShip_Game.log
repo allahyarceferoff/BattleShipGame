@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BattleShip_Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(110,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(112,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(236,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(238,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(379,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(381,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(383,38): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(383,62): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(397,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(399,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(439,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(441,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(472,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(474,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(481,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(484,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(673,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(675,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Function.h(696,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Attack.h(135,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Start.h(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\BattleShip_Game\Source.cpp(14,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BattleShip_Game.vcxproj -> C:\Users\Admin\Desktop\BattleShip_Game_Stepde_Duzeldiyim_Project\Debug\BattleShip_Game_Axirinci.exe
