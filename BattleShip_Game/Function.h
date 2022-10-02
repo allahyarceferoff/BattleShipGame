@@ -227,7 +227,7 @@ void ShowMyships(int** arr, int size) {
 
 
 
-//Gemilerin gorsenmemeyi temin etmek ucun ShowEnemyShips funksiyasinda Else-de rengin kodunu  12-ye deyismek lazimdir.   5kodunu yazaraq Dusmen Gemilerin gorunmesini temin edirik
+//Gemilerin gorsenmemeyi temin etmek ucun ShowEnemyShips funksiyasinda axirinci if else-de rengin kodunu  3-e deyismek lazimdir.   5-kodunu yazaraq Dusmen Gemilerin gorunmesini temin edirik
 void ShowEnemyShips(int** arr, int size) {
 	int counterPlayerShip = 0;
 	//cout << "  " << endl ;
